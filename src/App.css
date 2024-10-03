@@ -1,0 +1,16 @@
+.navbar{
+  background-color: rgba(73, 48, 147, 0.762);
+}
+.btn2{
+  background-image: linear-gradient(to right, rgb(76, 0, 255), rgb(167, 44, 172));
+  border: none;
+  border-radius: 10px;
+}
+.btn3{
+  background-image: linear-gradient(to right, rgb(76, 76, 78), rgb(167, 44, 172));
+  border: none;
+  border-radius: 10px;
+}
+.footer{
+  background-color: rgba(73, 48, 147, 0.762);
+}
